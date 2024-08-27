@@ -18,7 +18,7 @@ Verifying and not trusting that all signals are getting through. Also need to ca
 ## 8414B polar display repair
 The 8407A with the 8412A Phase-Amplitude Display works very well. Now to add the ability to see impedence behaviour via polar coordinates. [Here -> 8414B.](/8414B/README.md)
 
-## Background
+### Background
 
 This instrument was manufactured by Hewlett-Packard in the years 1968 - 1974.
 
@@ -26,7 +26,7 @@ This instrument was manufactured by Hewlett-Packard in the years 1968 - 1974.
 
 More details forthcoming. Soon. Enough. Certainly.
 
-## The controller
+### The controller
 
 In order to test and diagnose the capabilities of the instrument, it is necessary to construct a controller from a raspberry-pi and a plug-board. The parts required are obtainable from Mouser.
 
