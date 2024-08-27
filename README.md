@@ -1,21 +1,21 @@
 [![GitHub license](https://img.shields.io/github/license/cartheur/hp5480-controller)](https://github.com/cartheur/hp5480-controller/blob/main/LICENSE)
 
-# hp5480 Memory Display (Controller)
+## hp5480 Memory Display (Controller)
 A project for a controller to advance statistical analysis by a Hewlett-Packard 5480 DSO.
 
-# 141S analyzer restoration
+## 141S analyzer restoration
 A storage spectrum analyzer compliments the laboratory nicely. Learning about strict-hardware implementations of measurement. [Here -> 141S.](/141S/README.md)
 
-# 3721A correlator repair
+## 3721A correlator repair
 Advancing into statistical signal analysis. Worked (mostly) upon arrival but low-power board has issues. [Here -> 3721A.](/3721A/README.md)
 
-# 3722A noise generator
+## 3722A noise generator
 Worked beautifully on arrival and drives the statistical signal aspect pillar. Has the ability to be remotely controlled on one's own TTL board. [Here -> 3722A.](/3722A/README.md)
 
-# 5245L electronic counter repair
+## 5245L electronic counter repair
 Verifying and not trusting that all signals are getting through. Also need to calibrate the 3721A. [Here -> 5245L.](/5245L/README.md)
 
-# 8414B polar display repair
+## 8414B polar display repair
 The 8407A with the 8412A Phase-Amplitude Display works very well. Now to add the ability to see impedence behaviour via polar coordinates. [Here -> 8414B.](/8414B/README.md)
 
 ## Background
